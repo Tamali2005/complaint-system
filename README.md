@@ -160,11 +160,4 @@ Tables are created automatically on first start, and the admin account is create
 
 ---
 
-## 👩‍💻 Author
-
-**Tamali Khan**
-GitHub: [@Tamali2005](https://github.com/Tamali2005)
-
----
-
 ⭐ If you found this project useful, consider giving it a star!
